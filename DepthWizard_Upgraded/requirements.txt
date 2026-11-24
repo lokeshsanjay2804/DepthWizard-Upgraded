@@ -1,0 +1,10 @@
+streamlit>=1.40
+# Use a PyTorch build compatible with your Python version and CPU/GPU.
+torch
+torchvision
+timm
+numpy
+Pillow
+plotly
+reportlab
+matplotlib

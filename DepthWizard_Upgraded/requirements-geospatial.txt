@@ -1,0 +1,2 @@
+# Optional: GeoTIFF RGB/DEM import and calibrated GeoTIFF export
+rasterio
