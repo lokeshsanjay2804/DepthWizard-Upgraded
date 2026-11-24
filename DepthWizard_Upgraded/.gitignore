@@ -1,6 +1,13 @@
-__pycache__/
+
 .venv/
+venv/
+__pycache__/
 *.py[cod]
+.env
 .streamlit/secrets.toml
-outputs/*
-!outputs/.gitkeep
+.DS_Store
+
+# Temporary outputs
+*.log
+temp/
+cache/
